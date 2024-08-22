@@ -1,0 +1,1 @@
+Hi! This a Sword 3D Model that I created on Autodesk Fusion 360. I posted a .STL file in this repo where you can open and do whatever you want, feel free! You can open it with some apps like Solidworks, ThinkerCAD, Meshmixer, etc. See you soon!
